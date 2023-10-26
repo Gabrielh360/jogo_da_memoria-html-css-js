@@ -13,7 +13,7 @@
 O objetivo do jogo é encontrar todos os emojis iguais, e bem simples e divertido, bem semelhante aos outros jogos dessa mesma tematica. 
 
 ## Teste o Game 
-[Clique Aqui Pra Jogar!](https://gabrielh360.github.io/detona_ralph_game-js/)
+[Clique Aqui Pra Jogar!](https://gabrielh360.github.io/jogo_da_memoria-html-css-js/)
 
 ## Pré-Visualizção do Game
 <img height="300px" src="https://github.com/Gabrielh360/detona_ralph_game-js/assets/91648449/27ec5fb1-4dd7-4691-b816-e9fee06dd19a">
